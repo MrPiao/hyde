@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Since July 2016, I've been developing software behind an air gap. After 20 years of the Internet being more and more ubiquitous, being dropped in a situation where access to the web is so strictly controlled in and outside of work was certainly a jarring experience. Here are some things that most software developers take for granted while coding that I've learned to appreciate now that they've been taken from me (or made so much more difficult).
 
